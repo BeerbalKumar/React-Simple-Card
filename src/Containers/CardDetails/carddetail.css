@@ -1,0 +1,11 @@
+._container{
+  box-shadow:4px 4px 4px 2px rgb(180, 178, 178);
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+._Name{
+  font-size: 20px;
+  line-height: 22px;
+}
