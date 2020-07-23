@@ -35,7 +35,7 @@ const cardDetails = [
 function App() {
   return (
     <div className="App">
-      {/* <Grid container justify="center">
+      <Grid container justify="center">
         {
           cardDetails.map((val, i) => {
             return(
@@ -45,8 +45,8 @@ function App() {
             )
           })
         }
-      </Grid> */}
-      <CardDetail/>
+      </Grid>
+      {/* <CardDetail/> */}
     </div>
   );
 }
